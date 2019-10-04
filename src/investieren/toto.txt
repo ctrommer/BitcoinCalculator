@@ -1,0 +1,43 @@
+
+--------------
+Namen
+--------------
+
+	BitcoinCalculated
+	
+	MathOfBitcoin
+	
+	BitcoinRiddel
+
+
+--------------
+TODO
+--------------
+	
+	Investition der Einfachheit rausnehmen?
+	
+	Bitcoinhaendler rausnehmen?
+	
+	Wenn man unter Marktwert erzeugt, macht man schon gewinne. Sollte man das berücksichtigen?  
+	
+	Beispiel, dass man nicht gegen Bitcoin wetten sollte
+
+	bei Transaktion: Man spart Geld, dass man nicht für die Überweisung zahlen musste ( Annahme: Bitcoin statt anderer elektronischer Zahlweise, 
+	Papiergeld wird nicht als Vergleich genommen.
+
+	Investoren während Handeln hinzufügen ?
+	
+	hbidbd: die Kommentare noch mal überdenken und hierzu einen Unittest konstruieren, der zeigt, wann man Geld einnimmt.
+	
+	
+--------------	
+Zurückgestellt
+--------------	
+	
+	Achtung 1:
+		Herrscher druckt Geld. Er macht Gewinn. Das Volk verwendet diese Geldscheine und macht durch Inflation Verlust.
+		Wenn das Volk statt dessen Gold hat, macht es diesen Verlust nicht, da das Gold seine Kaufkraft erhält.
+		Das Volk macht zwar mit Gold keinen Gewinn, diejenigen, die Papierwährung besitzen machen aber noch mehr Verlust!!!
+		Man sollte also in BicMacs rechnen statt in Euro?
+		Bitcoin hat natürlich das gleiche Problem wie Papiergeld: Es gibt viele andere Cryptowährungen.
+		
