@@ -6,7 +6,7 @@ import java.util.Objects;
 
 public class Bitcoin extends Investition {
 
-	private static long marktwert;							// Annahme, dass Marktwert für alle Bitcoins gleich
+	private static long marktwert;							// Annahme, dass Marktwert für alle Bitcoins gleich.
 	private static long herstellungskostenAllerBitcoins;
 	
 	private Bitcoin(long erzeugungskosten) {
