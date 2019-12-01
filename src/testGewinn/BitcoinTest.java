@@ -12,7 +12,7 @@ import investieren.Bitcoin;
 import investieren.BitcoinBesitzer;
 import investieren.BitcoinHaendler;
 
-public class TesteBitcoin {
+public class BitcoinTest {
 
 	/**
 	 * Machen die Bitoin-Besitzer bei steigenden Kursen Gewinne? 

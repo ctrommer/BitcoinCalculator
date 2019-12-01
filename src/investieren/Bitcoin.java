@@ -2,6 +2,8 @@ package investieren;
 
 import java.util.Objects;
 
+// TODO: vereinfachen. Bitcoin nicht von Investition ableiten, sondern die Werte von Investition hier rein.
+
 public class Bitcoin extends Investition {
 
 	private static long marktwert;							// Annahme, dass Marktwert für alle Bitcoins gleich
