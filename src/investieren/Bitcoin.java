@@ -3,6 +3,7 @@ package investieren;
 import java.util.Objects;
 
 // TODO: vereinfachen. Bitcoin nicht von Investition ableiten, sondern die Werte von Investition hier rein.
+// TODO: als Uebung dann den Anwender das gleiche fuer Gold machen.
 
 public class Bitcoin extends Investition {
 
